@@ -7,7 +7,7 @@ namespace LinkedListAddition
         static void Main(string[] args)
         {
             Console.WriteLine("Linked List addition of same size!");
-            Console.WriteLine("---------------------");
+            Console.WriteLine("----------------------------------");
 
             try
             {
